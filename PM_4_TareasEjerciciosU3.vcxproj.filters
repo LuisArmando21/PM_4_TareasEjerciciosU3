@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\Archvios Necesarios Configuracion Visual Macro Ensamblador\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="P0_Plantilla_.asm" />
+    <MASM Include="EJ1_ContadorDel_1_al_50_.asm" />
+    <MASM Include="EJ2_FormulariSeguro_.asm" />
+    <MASM Include="Examen_4_.asm" />
+    <MASM Include="Examen_3_.asm" />
+    <MASM Include="Examen_1_.asm" />
+    <MASM Include="Examen_2_.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LibreriaM_.inc" />
+  </ItemGroup>
+</Project>
